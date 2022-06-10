@@ -1,7 +1,7 @@
 """
 Ex3
 """
-from ej2 import *
+from practica_1.ej2 import *
 #TODO:Eliminar el puno final al printar
 def canviar_ascii():
     """Esta funcion intercanvia el caracter por el valor ascii"""

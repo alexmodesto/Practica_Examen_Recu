@@ -1,7 +1,7 @@
-from ej1 import *
-from ej2 import *
-from ej3 import *
-from ej4 import *
+from practica_1.ej1 import *
+from practica_1.ej2 import *
+from practica_1.ej3 import *
+from practica_1.ej4 import *
 
 def menu():
     """Esta funcion muestra el menu y da a elegir distintas funciones"""
